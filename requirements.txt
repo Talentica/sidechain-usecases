@@ -3,7 +3,7 @@ web3==4.2.0
 Flask==1.0.2
 gevent-websocket==0.10.1
 websocket-client==0.48.0
-requests==2.18.4
+requests==2.20.0
 rlp==0.6.0
 ethereum==2.3.1
 plyvel==1.0.4
