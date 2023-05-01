@@ -1,6 +1,6 @@
 py-solc==2.1.0
 web3==4.2.0
-Flask==1.0.2
+Flask==2.3.2
 gevent-websocket==0.10.1
 websocket-client==0.48.0
 requests==2.20.0
